@@ -6,7 +6,7 @@ function Student(props) {
     <div className=''>
       <h1>{props.name}</h1>
       <hr />
-      <h3>{props.bio}</h3>
+      <p>{props.bio}</p>
       <h2>Scores</h2>
       <ul>
 {
